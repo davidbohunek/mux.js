@@ -1,6 +1,6 @@
 {
-  "name": "mux.js",
-  "version": "5.6.4",
+  "name": "@sky-uk-ott/muxjs",
+  "version": "5.6.4-v0",
   "description": "A collection of lightweight utilities for inspecting and manipulating video container formats.",
   "repository": {
     "type": "git",
